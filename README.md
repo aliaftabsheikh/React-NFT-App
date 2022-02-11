@@ -4,7 +4,7 @@
 
 ### :link: https://react-nft-project.netlify.app/
 
-### Learned from : [https://youtu.be/hhZtiytNaBQ](Clever Programmer)
+### Learned from : [Cever Programmer](https://youtu.be/hhZtiytNaBQ)
 
 ## Images
 
