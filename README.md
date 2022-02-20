@@ -2,7 +2,7 @@
 
 ### _React Web3 NFT Listing Web Application using ReactJs, Thirdweb and opensea api and metamask wallet_
 
-### Learned from : [Cever Programmer](https://youtu.be/hhZtiytNaBQ)
+### Learned from : [Clever Programmer](https://youtu.be/hhZtiytNaBQ)
 
 ## Images
 
